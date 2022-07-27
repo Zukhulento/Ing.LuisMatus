@@ -102,6 +102,12 @@ ul button:hover{
     
 }
 @media only screen and (min-width: 768px){
+    .uno{
+        margin-right: 30px;
+    }
+    .dos{
+        margin-left: 30px;
+    }
 }
 @media only screen and (max-width: 500px){
     .disapear{
