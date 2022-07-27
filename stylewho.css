@@ -110,17 +110,9 @@ ul button:hover{
     }
 }
 @media only screen and (max-width: 500px){
-    .disapear{
-        max-width: 0px;
-        margin: 0;
-        padding: 0;
-    }
     .card{
         width: 100vw;
         margin-bottom: 10px;
         
-    }
-    .foot3r, .dos{
-        max-width: 95%;
     }
 }
